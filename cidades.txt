@@ -1,0 +1,55 @@
+2 - Brasília - DF
+3 - Araranguá - SC
+4 - Araranguá - SC
+5 - Brasília - DF
+6 - Araranguá - SC
+7 - Araranguá - SC
+8 - Araranguá - SC
+9 -  Criciúma - SC
+10 -  São Paulo - SP
+11 -  Rio de Janeiro - RJ
+12 -  Belo Horizonte - MG
+13 -  Porto Alegre - RS
+14 -  Curitiba - PR
+15 -  Salvador - BA
+16 -  Recife - PE
+17 -  Fortaleza - CE
+18 -  Brasília - DF
+19 -  Manaus - AM
+21 -  Florianópolis - SC
+22 -  Natal - RN
+23 -  Goiânia - GO
+24 -  Criciúma - SC
+25 -  São Paulo - SP
+26 -  Rio de Janeiro - RJ
+27 -  Belo Horizonte - MG
+28 -  Porto Alegre - RS
+29 -  Curitiba - PR
+31 -  Recife - PE
+32 -  Fortaleza - CE
+33 -  Brasília - DF
+34 -  Manaus - AM
+35 -  Belém - PA
+36 -  Florianópolis - SC
+37 -  Natal - RN
+38 -  Goiânia - GO
+39 - Araranguá - SC
+40 - Araranguá - SC
+41 - Araranguá - SC
+42 - Araranguá - SC
+43 - Araranguá - SC
+44 - Araranguá - SC
+45 - Araranguá - SC
+46 - Araranguá - SC
+47 - Araranguá - SC
+48 - Araranguá - SC
+49 - Araranguá - SC
+50 - Araranguá - SC
+51 - Araranguá - SC
+52 - Araranguá - SC
+53 - Araranguá - SC
+54 - Araranguá - SC
+55 - Araranguá - SC
+56 - Araranguá - SC
+57 - Araranguá - SC
+58 - Araranguá - SC

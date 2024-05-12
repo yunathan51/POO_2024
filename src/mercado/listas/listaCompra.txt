@@ -1,0 +1,10 @@
+Caderno, 2
+Camisa, 1
+Calça, 5
+Relógio, 2
+Caneta, 3
+Óculos, 1
+Mochila, 2
+Celular, 2
+Lancheira, 4
+Tênis, 4

@@ -1,0 +1,10 @@
+Caderno, 5, R$6,50
+Camisa, 2, R$10,00
+Calça, 6, R$8,50
+Relógio, 3, R$24,99
+Caneta, 8, R$2,25
+Óculos, 4, R$15,99
+Mochila, 7, R$30,00
+Celular, 3, R$499,90
+Lancheira, 5, R$12,75
+Tênis, 9, R$79,99
