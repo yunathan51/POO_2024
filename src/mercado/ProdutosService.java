@@ -174,7 +174,7 @@ public class ProdutosService {
                 String[] vl = linha.split(",");
                 String nome = vl[0];
                 int quantidade = Integer.parseInt(vl[1].trim());
-                double valor = Double.parseDouble(vl[2].substring(3).replace(",","."));
+                double valor = Double.parseDouble(vl[2].substring(3) +"."+ vl[3]);
                 Produtos produtos = new Produtos();
                     produtos.setNome(nome);
                     produtos.setEstoque(quantidade);

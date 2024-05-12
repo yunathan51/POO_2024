@@ -1,11 +1,11 @@
-Caderno - 2 - R$12,00
+Caderno - 2 - R$13,00
 Camisa - 1 - R$10,00
-Calça - 5 - R$40,00
-Relógio - 2 - R$48,00
-Caneta - 3 - R$6,00
-Óculos - 1 - R$15,00
+Calça - 5 - R$42,50
+Relógio - 2 - R$49,98
+Caneta - 3 - R$6,75
+Óculos - 1 - R$15,99
 Mochila - 2 - R$60,00
-Celular - 2 - R$998,00
-Lancheira - 4 - R$48,00
-Tênis - 4 - R$316,00
-TOTAL: R$1553,00
+Celular - 2 - R$999,80
+Lancheira - 4 - R$51,00
+Tênis - 4 - R$319,96
+TOTAL: R$1568,98
